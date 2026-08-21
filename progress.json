@@ -158,5 +158,14 @@
       "The upstream remote does not point to the original repository!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787298289.730313,
+    "completed_at": 1787298294.001705,
+    "comments": [
+      "/Users/wongk/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
   }
 ]
