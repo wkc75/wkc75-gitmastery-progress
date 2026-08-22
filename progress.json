@@ -348,5 +348,14 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787388955.81261,
+    "completed_at": 1787388957.31528,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
   }
 ]
